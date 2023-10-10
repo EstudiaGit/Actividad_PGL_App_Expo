@@ -1,4 +1,5 @@
 # Actividad_PGL_App_Expo
+
 Actividad para PGL de aplicación 'Hello World' con Expo
 
 # Mi Proyecto Expo
@@ -15,27 +16,27 @@ Este proyecto tiene las siguientes características:
 
 ## Capturas de Pantalla
 
-![App Captura_1](cap_1.jpg)  
+![App Captura_1](screenshot/cap_1.jpg)
 Captura 1
 
 ---
 
-![App Captura_2](cap_2.jpg)  
+![App Captura_2](screenshot/cap_2.jpg)  
 Captura 2
 
 ---
 
-![App Captura_3](cap_3.jpg)  
+![App Captura_3](screenshot/cap_3.jpg)  
 Captura 3
 
 ---
 
-![App Captura_4](cap_4.jpg)  
+![App Captura_4](screenshot/cap_4.jpg)  
 Captura 4
 
----  
+---
 
-![App Captura_5](cap_5.jpg)  
-Captura 5  
+![App Captura_5](screenshot/cap_5.jpg)  
+Captura 5
 
----  
+---
