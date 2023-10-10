@@ -16,27 +16,32 @@ Este proyecto tiene las siguientes características:
 
 ## Capturas de Pantalla
 
-![App Captura_1](screenshot/cap_1.jpg)
-Captura 1
+![App Captura_1](screenshot/cap_1.jpg)  
+  
+  Captura 1
 
 ---
 
 ![App Captura_2](screenshot/cap_2.jpg)  
-Captura 2
+  
+  Captura 2
 
 ---
 
 ![App Captura_3](screenshot/cap_3.jpg)  
-Captura 3
+  
+  Captura 3
 
 ---
 
 ![App Captura_4](screenshot/cap_4.jpg)  
-Captura 4
+  
+  Captura 4
 
 ---
 
 ![App Captura_5](screenshot/cap_5.jpg)  
-Captura 5
+  
+  Captura 5
 
 ---
