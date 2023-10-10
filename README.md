@@ -10,7 +10,7 @@ Este es un proyecto de Expo que muestra tres paginas a las que se acceden desde 
 
 Este proyecto tiene las siguientes características:
 
-- Muestra tres páginas navegables desde la barra inferior.
+- Muestra un encabezado con el título de la aplicación y un encabezado de la página en la que se encuentra.
 - Cambia el color de fondo al presionar un botón.
 - Incluye una barra de navegación inferior con tres opciones para acceder a las páginas.
 
