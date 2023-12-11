@@ -16,7 +16,7 @@ Este proyecto tiene las siguientes características:
 
 ## Capturas de Pantalla
 
-![App Captura_1](screenshot/cap_1.jpg)  
+<img src="screenshot/cap_1.jpg" width="300">
 Captura 1
 
 ---
