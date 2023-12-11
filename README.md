@@ -21,22 +21,22 @@ Captura 1
 
 ---
 
-![App Captura_2](screenshot/cap_2.jpg)  
+<img src="screenshot/cap_2.jpg" width="300"> 
 Captura 2
 
 ---
 
-![App Captura_3](screenshot/cap_3.jpg)  
+<img src="screenshot/cap_3.jpg" width="300"> 
 Captura 3
 
 ---
 
-![App Captura_4](screenshot/cap_4.jpg)  
+<img src="screenshot/cap_4.jpg" width="300"> 
 Captura 4
 
 ---
 
-![App Captura_5](screenshot/cap_5.jpg)  
+<img src="screenshot/cap_5.jpg" width="300">
 Captura 5
 
 ---
